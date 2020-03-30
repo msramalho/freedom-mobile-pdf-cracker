@@ -12,6 +12,10 @@ if you were born on October 9, 1978 then your password would be 1078.
 
 This is a ridiculous attempt at security that can be broken with simple bruteforce.
 
-To do so call `python3 crack.py <FILENAME>`. You need to install `pip install pikepdf` OR `pip install -r requirements.txt`.
+To run the python script, you need to install [pikepdf](https://github.com/pikepdf/pikepdf). You can do so with either of the following options (feel free to use virtual environments):
+* `pip install pikepdf`
+* `pip install -r requirements.txt`
+
+To do so call `python3 crack.py <FILENAME>`.
 
 After that, just wait a few seconds (you can watch the console) and a new file `cracked_FILENAME.pdf` will be generated.
