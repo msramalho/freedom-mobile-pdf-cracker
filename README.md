@@ -1,7 +1,7 @@
 # Freedom Mobile Canada | Payment Information PDF Cracker
 Freedom Mobile is a SIM card company in Canada.
 
-After creating an account with [freedommobile.ca](freedommobile.ca), an email will be sent with the following instructions:
+After creating an account with [freedommobile.ca](freedommobile.ca), an email will be sent with your payment receipt attached and the following instructions:
 
 ```
 To open the file, you will need to enter a password. 
